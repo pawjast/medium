@@ -1,2 +1,3 @@
-# medium
-Code repository for my Medium articles
+# Welcome
+
+This is a code repository for my Medium articles.
